@@ -1,0 +1,6 @@
+{
+  "name": "Explorador de Mapa Logístico",
+  "description": "Uma ferramenta interativa para visualizar a dinâmica caótica do mapa logístico, permitindo ajustar a taxa de crescimento (mu) e a condição inicial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
